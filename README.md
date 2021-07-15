@@ -4,3 +4,6 @@ Desarrollar una aplicación móvil nativa android que permita agregar marcadores
 Capturas de pantalla de la aplicación:
 
 ![alt text](https://github.com/SebastianCarvajal/Tarea4_Moviles/blob/main/capturas/Screenshot_1626371355.png)
+![alt text](https://github.com/SebastianCarvajal/Tarea4_Moviles/blob/main/capturas/Screenshot_1626371409.png)
+![alt text](https://github.com/SebastianCarvajal/Tarea4_Moviles/blob/main/capturas/Screenshot_1626371438.png)
+![alt text](https://github.com/SebastianCarvajal/Tarea4_Moviles/blob/main/capturas/Screenshot_1626371472.png)
